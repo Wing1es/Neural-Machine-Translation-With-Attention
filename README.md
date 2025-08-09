@@ -25,7 +25,7 @@ This repository contains a Jupyter notebook implementing a Neural Machine Transl
 
 Install dependencies:
 
-```bash
+bash
 pip install trax jax numpy jupyter
 
 How to Run
